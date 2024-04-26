@@ -128,3 +128,15 @@ h1 {
 main {
     margin-top: 20px;
 }
+
+footer {
+    padding: 2rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+footer a {
+    color: #ddd;
+}
